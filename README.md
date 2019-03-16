@@ -4,22 +4,24 @@ The basic layout is the landing page consisting of sign in and register features
 Once logged in, the image input box takes in an image URL and detects faces in the respective image.
 This is done using the Clarifai API which allows usage of their face detection model.
 
-Technologies Used:
+<h3>Technologies Used:</h3>
 
-Front-end:
+<h3>Front-end:</h3>
 1. React.js
 2. BootStrap
 
-Back-end:
+<h3>Back-end:</h3>
 1. Node.js
 2. Express
 
-Database:
+<h3>Database:</h3>
 1. PostgreSQL
 2. Knex
 
-Deployment:
+<h3>Deployment:</h3>
 1. Heroku
+
+
 Following is a walkthrough of the live web application
 
 

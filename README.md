@@ -8,7 +8,7 @@ This is done using the Clarifai API which allows usage of their face detection m
 
 <h3>Front-end:</h3>
 1. React.js<br>
-2. BootStrap
+2. ReactStrap
 
 <h3>Back-end:</h3>
 1. Node.js<br>

@@ -1,3 +1,35 @@
+Detecto is a fun website based primarily on FACE DETECTION principles and a MACHINE LEARNING API which detects faces on an user provided image URL.
+
+The basic layout is the landing page consisting of sign in and register features where new users are supposed to register while existing users get to login with the stored credentials in the database.
+Once logged in, the image input box takes in an image URL and detects faces in the respective image.
+This is done using the Clarifai API which allows usage of their face detection model.
+
+Technologies Used:
+
+Front-end:
+1. React.js
+2. BootStrap
+
+Back-end:
+1. Node.js
+2. Express
+
+Database:
+1. PostgreSQL
+2. Knex
+
+Deployment:
+1. Heroku
+Following is a walkthrough of the live web application
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

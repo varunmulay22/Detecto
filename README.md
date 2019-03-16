@@ -6,20 +6,16 @@ This is done using the Clarifai API which allows usage of their face detection m
 
 <h3>Technologies Used:</h3>
 
-<h3>Front-end:</h3>
-1. React.js<br>
-2. ReactStrap
+Front-end | Back-End 
+------------ | -------------
+React.js | Node.js
+ReactStrap | Express
 
-<h3>Back-end:</h3>
-1. Node.js<br>
-2. Express
+Database | Deployment 
+------------ | -------------
+Postgres | Heroku
+Knex
 
-<h3>Database:</h3>
-1. PostgreSQL<br>
-2. Knex
-
-<h3>Deployment:</h3>
-1. Heroku<br>
 
 
 Following is a walkthrough of the live web application
